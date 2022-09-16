@@ -1,10 +1,10 @@
-Shell, init files, variables and expansions
+*Shell, init files, variables and expansions
 
 Project done during Software Engineering studies at ALX. It aims to learn about alias builtin, help builtin, local, global and reserved variables (PATH, HOME and PS1), special parameters $? and single an double quotes in Shell.
 
 
 
-Technologies
+*Technologies
 
 Scripts written in Bash
 
@@ -12,7 +12,7 @@ Tested on Ubuntu 20.04 LTS
 
 
 
-Files
+*Files
 
 All of the following files are scripts:
 
@@ -34,7 +34,7 @@ Filename	       Description
 
 6-create_local_variable	Creates a new local variable named BETTY
 
-7-create_global_variable Creates a new global variable named HOLBERTON
+7-create_global_variable Creates a new global variable named BEST
 
 8-true_knowledge	 Prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
 

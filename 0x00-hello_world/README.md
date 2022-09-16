@@ -1,6 +1,6 @@
  - Hello, World
 
-General
+*General
 
 Why C programming is awesome (don’t forget to tweet today, with the hashtag #cisfun :))
 
@@ -28,7 +28,8 @@ How to find the right header to include in your source code when using a standar
 
 How does the main function influence the return value of the program
 
-Requirements C
+
+*Requirements C
 
 Allowed editors: vi, vim, emacs
 
@@ -36,7 +37,7 @@ All your files will be compiled on Ubuntu 20.04 LTS using gcc 4.8.4
 
 All your files should end with a new line
 
-A README.md file at the root of the holbertonschool-low_level_programming repo, containing a description of the repository
+A README.md file at the root of the alx-low_level_programming repo, containing a description of the repository
 
 A README.md file, at the root of the folder of this project, containing a description of the project
 
@@ -46,7 +47,8 @@ You are not allowed to use system
 
 Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
 
-0-preprocessor: Preprocessor
+
+*0-preprocessor: Preprocessor
 
 A script that runs a C file through the preprocessor and save the result into another file. The C file name will be saved in the variable $CFILE; The output should be saved in the file c using gcc $CFILE -E -o c.
 
